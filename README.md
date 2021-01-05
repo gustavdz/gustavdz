@@ -73,6 +73,4 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&repo=legalconsult)](https://github.com/gustavdz/legalconsult)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&repo=appunto-server)](https://github.com/gustavdz/appunto-server)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&repo=proshop)](https://github.com/gustavdz/proshop)
