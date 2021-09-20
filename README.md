@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I am currently working on [Miami Insurance Brokers](https://www.mibrk.com/);
+- 👨🏽‍💻 I am currently working on [Symlab](https://symlab.io/);
 - 🏗️ I am looking to rise my IT Company called [Deckasoft](https://www.deckasoft.com);
 - 💬 If you have an idea for a digital project I will be more than happy to help you;
 - 🌊 I love the sea;
