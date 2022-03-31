@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Gustavo Decker, a Developer 🚀 from Ecuador.
+## Hi, I'm Gustavo Decker, a Full Stack Developer 🚀 from Ecuador.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -19,8 +19,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I am currently working on [Symlab](https://symlab.io/);
-- 🏗️ I am looking to rise my IT Company called [Deckasoft](https://www.deckasoft.com);
+- 👨🏽‍💻 I am currently working at [Symlab](https://symlab.io/);
 - 💬 If you have an idea for a digital project I will be more than happy to help you;
 - 🌊 I love the sea;
 
@@ -69,7 +68,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </br>
 </br>
 
-<div><p>The projects I am currently working on: </p></div>
+<div><p>The public projects that I am currently working on: </p></div>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&repo=legalconsult)](https://github.com/gustavdz/legalconsult)
 
