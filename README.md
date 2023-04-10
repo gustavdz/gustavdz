@@ -80,10 +80,20 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavdz&hide=html,ruby,css,scss,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
     </a>
-  </P>
+  </p>
 </div>
 
-<div><p>The public projects that I am currently working on: </p></div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**The public projects that I am currently working on:**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&repo=react-ts-tailwind-boilerplate)](https://github.com/gustavdz/react-ts-tailwind-boilerplate)
 
