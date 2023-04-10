@@ -85,6 +85,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <div><p>The public projects that I am currently working on: </p></div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&repo=legalconsult)](https://github.com/gustavdz/legalconsult)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&repo=react-ts-tailwind-boilerplate)](https://github.com/gustavdz/react-ts-tailwind-boilerplate)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&repo=proshop)](https://github.com/gustavdz/proshop)
