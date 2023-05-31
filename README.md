@@ -47,7 +47,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/gustavdz">
-    <img width="55%" align="right" alt="Gustavdz github stats" src="https://github-readme-stats.vercel.app/api?username=gustavdz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    <img width="55%" align="right" alt="Gustavdz github stats" src="https://github-readme-stats.vercel.app/api?username=gustavdz&show_icons=true&theme=radical" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment.
@@ -78,7 +78,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <div>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavdz&hide=html,ruby,css,scss,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavdz&theme=radical&hide=html,ruby,css,scss,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
     </a>
   </p>
 </div>
@@ -95,6 +95,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 **The public projects that I am currently working on:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&repo=react-ts-tailwind-boilerplate)](https://github.com/gustavdz/react-ts-tailwind-boilerplate)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&repo=proshop)](https://github.com/gustavdz/proshop)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavdz&theme=radical&repo=react-ts-tailwind-boilerplate)](https://github.com/gustavdz/react-ts-tailwind-boilerplate)
