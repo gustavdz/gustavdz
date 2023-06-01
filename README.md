@@ -78,7 +78,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <div style="width:100%">
   <p style="width:50%">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavdz&theme=gruvbox&hide=html,ruby,css,scss,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavdz&theme=gruvbox&hide=scss,java,objective-c,starlark,shell,nix" />
     </a>
   </p>
 </div>
