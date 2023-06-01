@@ -32,10 +32,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I am currently working at [TALO](https://talo.cl/) with Javascript and Typescript using React, Node.js and Nestjs ...
-- 💬 If you have an idea for a digital project I will be more than happy to help you ...
+- 👨🏽‍💻 I am currently working at [MARQII](https://marqii.com/) with Javascript and Typescript.
+- 💬 If you have an idea for a digital project I will be more than happy to help you.
 - 😄 Pronouns: He - His - Él
-- 🌊 I love the sea ...
+- 🌊 I love the sea
 
 <br/>
 <br/>
