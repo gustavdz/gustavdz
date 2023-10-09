@@ -32,7 +32,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I am currently working at [MARQII](https://marqii.com/) with Javascript and Typescript.
+- 👨🏽‍💻 I am currently working at [MARQII](https://marqii.com/) with Typescript, Nodejs and Prisma on AWS CDK.
 - 💬 If you have an idea for a digital project I will be more than happy to help you.
 - 😄 Pronouns: He - His - Él
 - 🌊 I love the sea
