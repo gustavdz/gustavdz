@@ -32,7 +32,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I am currently working at [MARQII](https://marqii.com/) with **TypeScript**, **Node.js**, **Prisma**, and **AWS CDK**.
+- 👨🏽‍💻 I am currently working at [MARQII](https://marqii.com/) with **TypeScript**, **Node.js**, **Prisma**, **Nx**, and **AWS CDK**.
 - 💬 If you have an idea for a digital project I will be more than happy to help you.
 - 😄 Pronouns: He / His / Él
 - 🌊 I love the sea
@@ -55,6 +55,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
