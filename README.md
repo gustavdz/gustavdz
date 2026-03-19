@@ -1,8 +1,8 @@
 <!-- Your title -->
-## Hi, I'm Gustavo Decker, a Full Stack Developer 🚀 from Ecuador.
+## Hi, I'm Gustavo Decker, a Backend Developer 🚀 from Ecuador.
 
 <!-- Your badges
-You can use the website to generate badges: https://shields.io/
+You can use this website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gustavdz)
@@ -12,16 +12,9 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gustav_dz@hotmail.com)
 
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-
+<!-- Profile views counter -->
 <p align="center">
-  <a href="http://hits.dwyl.com/gustavdz/gustavdz" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/gustavdz/gustavdz.svg" />
-  </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=gustavdz.gustavdz" />
+  <img align="center" alt="Profile views" src="https://komarev.com/ghpvc/?username=gustavdz&color=blue&style=flat" />
 </p>
 
 
@@ -30,11 +23,11 @@ Both apis are in trouble due to the number of requests, if you know any other to
 **Talking about me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-- 👨🏽‍💻 I am currently working at [MARQII](https://marqii.com/) with Typescript, Nodejs and Prisma on AWS CDK.
+- 👨🏽‍💻 I am currently working at [MARQII](https://marqii.com/) with **TypeScript**, **Node.js**, **Prisma**, **Nx**, and **AWS CDK**.
 - 💬 If you have an idea for a digital project I will be more than happy to help you.
-- 😄 Pronouns: He - His - Él
+- 😄 Pronouns: He / His / Él
 - 🌊 I love the sea
 
 <br/>
@@ -47,31 +40,22 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/gustavdz">
-    <img width="55%" align="right" alt="Gustavdz github stats" src="https://github-readme-stats.vercel.app/api?username=gustavdz&show_icons=true&theme=cobalt" />
+    <img width="55%" align="right" alt="Gustavdz github stats" src="https://github-readme-stats.vercel.app/api?username=gustavdz&show_icons=true&theme=cobalt&hide=contribs" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+  <code><img width="10%" alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="10%" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" alt="Jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+  <code><img width="10%" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 </p>
 <br/>
 <br/>
